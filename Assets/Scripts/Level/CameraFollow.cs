@@ -1,5 +1,7 @@
 using UnityEngine;
 
+
+
 public class CameraFollow : MonoBehaviour
 {
     public Transform target;
@@ -13,6 +15,8 @@ public class CameraFollow : MonoBehaviour
         transform.position = smoothedPos;
 
         transform.LookAt(target);
+
+        
     }
 
 }
