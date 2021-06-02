@@ -6,7 +6,6 @@ Feito com "Mesh Pencil" documentação: [DOCUMENTATION.pdf](https://github.com/B
 Arquitetura Utilizada: Singleton
 
 Link para teste: https://shireproductions.itch.io/teste-virtual-planet
+Senha para acesso ao prototipo: virtualplanet
 
-Espero que goste do resultado!
-
-PS: Algumas funcionalidades ficaram defasadas, mais detalhes na pagina do itch.io
+Protótipo de mecanica realizado para processo seletivo na virtual planet!
